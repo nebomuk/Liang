@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/btn_new.svg</file>
+        <file>images/btn_quit.svg</file>
+        <file>images/cheese.svg</file>
+        <file>images/hex.svg</file>
+        <file>images/mouse.svg</file>
+        <file>images/mouse_dl.png</file>
+        <file>images/mouse_dl.svg</file>
+        <file>images/mouse_dr.svg</file>
+        <file>images/mouse_l.svg</file>
+        <file>images/mouse_r.svg</file>
+        <file>images/mouse_ul.svg</file>
+        <file>images/mouse_ur.svg</file>
+        <file>images/trap.svg</file>
+        <file>Button.qml</file>
+        <file>ButtonNew.qml</file>
+        <file>ButtonQuit.qml</file>
+        <file>Field.qml</file>
+        <file>FlashText.qml</file>
+        <file>HexField.qml</file>
+        <file>logic.js</file>
+        <file>Mouse.qml</file>
+        <file>trapthemouse.qml</file>
+    </qresource>
+</RCC>
